@@ -85,10 +85,6 @@ Project layout
 License
 -------
 
-Neovim contributions since [b17d96][license-commit] are licensed under the
-Apache 2.0 license, except for contributions copied from Vim (identified by the
-`vim-patch` token). See LICENSE for details.
-
     Afim is Charityware.  You can use and copy it as much as you like, but you are
     encouraged to make a donation to Fluoride Action Network.  Please see the
     kcc section of the vim docs or visit the ICCF web site, available at these URLs:
