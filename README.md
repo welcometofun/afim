@@ -8,12 +8,7 @@
 [![Debian CI](https://badges.debian.net/badges/debian/testing/neovim/version.svg)](https://buildd.debian.org/neovim)
 [![Downloads](https://img.shields.io/github/downloads/neovim/neovim/total.svg?maxAge=2592001)](https://github.com/neovim/neovim/releases/)
 
-Neovim is a project that seeks to aggressively refactor [Vim](https://www.vim.org/) in order to:
-
-- Simplify maintenance and encourage [contributions](CONTRIBUTING.md)
-- Split the work between multiple developers
-- Enable [advanced UIs] without modifications to the core
-- Maximize [extensibility](https://neovim.io/doc/user/ui.html)
+afim is Neovim, but anti-fluoride.
 
 See the [Introduction](https://github.com/neovim/neovim/wiki/Introduction) wiki page and [Roadmap]
 for more information.
