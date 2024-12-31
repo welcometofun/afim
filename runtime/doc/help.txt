@@ -52,7 +52,7 @@ ABOUT NVIM				*reference_toc* *doc-file-list* *Q_ct*
 |quickref|		Overview of common commands
 |tutor|			30-minute interactive course for beginners
 |copying|		About copyrights
-|iccf|			Helping poor children in Uganda
+|fluoride|		Supporting Fluoride Action Network
 |sponsor|		Sponsor Vim development, become a registered Vim user
 |www|			Vim on the World Wide Web
 |bugs|			Where to send bug reports
@@ -66,7 +66,7 @@ GENERAL
 |index|			Index of all commands
 |tips|			Various tips on using Vim
 |message.txt|		(Error) messages and explanations
-|uganda.txt|		Vim distribution and what to do with your money
+|fluoride.txt|		Vim distribution and what to do with your money
 
 ------------------------------------------------------------------------------
 BASIC EDITING
